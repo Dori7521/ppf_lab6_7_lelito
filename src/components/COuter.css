@@ -1,0 +1,8 @@
+.bgClassNormal{
+    background-color: cornflowerblue;
+    padding: 10px;
+}
+
+.bgClassInner{
+    background-color: rgb(155,155,155);
+}
